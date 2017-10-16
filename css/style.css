@@ -1,0 +1,27 @@
+div {
+	width: 150px;
+	height: 150px;
+	background-size: 100%;
+	float: right;
+}
+
+#bb1 {
+	background-image: url(../img/bb1.jpg);
+}
+
+#bb2 {
+	background-image: url(../img/bb2.jpg);
+}
+
+#bb3 {
+	background-image: url(../img/bb3.jpg);
+}
+
+#bb4 {
+	background-image: url(../img/bb4.jpeg);
+}
+
+#bb5 {
+	background-image: url(../img/bb5.jpg);
+}
+
